@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import Adafruit_DHT
 from gpiozero import Button, LED
 import RPi.GPIO as GPIO
